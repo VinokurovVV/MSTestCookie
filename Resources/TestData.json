@@ -1,0 +1,10 @@
+﻿{
+    "url": "http://example.com/",
+    "cookie_name1": "example_key_1",
+    "cookie_value1": "example_value_1",
+    "cookie_name2": "example_key_2",
+    "cookie_value2": "example_value_2",
+    "cookie_name3": "example_key_3",
+    "cookie_value3": "example_value_3",
+    "cookie_value3.1": "example_value_300"
+}
